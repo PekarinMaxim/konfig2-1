@@ -47,3 +47,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+#python script.py --package requests --repo https://pypi.org --test-mode remote --version 2.28.0 --output deps.json
